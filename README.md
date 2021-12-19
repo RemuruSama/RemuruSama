@@ -9,6 +9,39 @@
 ![](https://komarev.com/ghpvc/?username=RemuruSama&color=f7022a)
 
 
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.text {
   white-space: nowrap; 
   color: white;
   font-size: 20px;
@@ -26,7 +59,7 @@
 <h2>Slide in Overlay from the Top</h2>
 
 <div class="container">
-  <img src="img_avatar.png" alt="Avatar" class="image">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="Avatar" class="image">
   <div class="overlay">
     <div class="text">Hello World</div>
   </div>
