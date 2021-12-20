@@ -6,7 +6,7 @@
 <h1>Thank You!👦</h1>
     
 ![](https://komarev.com/ghpvc/?username=RemuruSama&color=f7022a)
-<img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/></center>
+<br><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/><img src="https://thumbs.gfycat.com/RichDecentGodwit-max-1mb.gif" width="50px"/></br>
 
 
 
