@@ -1,13 +1,15 @@
-<svg width="280" height="60" viewBox="0 0 280 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="280" height="60" rx="30" fill="#E8F5FD"/>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with proper pill shape -->
+  <rect width="200" height="50" rx="25" fill="#E8F5FD" stroke="#2AABEE" stroke-width="1.5"/>
   
-  <!-- Telegram Logo -->
-  <circle cx="40" cy="30" r="15" fill="#2AABEE"/>
-  <path d="M47.5 26.25L33.75 32.5L30 45L33.125 41.875L37.5 45.625L42.5 29.375L47.5 26.25Z" fill="white"/>
-  <path d="M33.75 32.5L36.25 40L37.5 33.75L47.5 26.25L33.75 32.5Z" fill="#C8DAEA"/>
-  <path d="M36.25 40L33.125 41.875L33.75 32.5L36.25 40Z" fill="#A9C6D8"/>
+  <!-- Telegram Logo (centered in left circle) -->
+  <g transform="translate(25, 25)">
+    <circle r="12" fill="#2AABEE"/>
+    <path d="M6.5 -2 L-5 2.5 L-8 11.5 L-5.5 9 L-2 11.5 L2 -1.5 Z" fill="white"/>
+    <path d="M-5 2.5 L-3 8 L-2 3.5 L6.5 -2 Z" fill="#C8DAEA"/>
+    <path d="M-3 8 L-5.5 9 L-5 2.5 Z" fill="#A9C6D8"/>
+  </g>
   
   <!-- Text -->
-  <text x="70" y="38" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="600" fill="#0088CC">CodeSenseiX</text>
+  <text x="55" y="32" font-family="'Segoe UI', -apple-system, system-ui, sans-serif" font-size="16" font-weight="600" fill="#0088CC">CodeSenseiX</text>
 </svg>

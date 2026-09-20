@@ -1,13 +1,19 @@
-<svg width="280" height="60" viewBox="0 0 280 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="280" height="60" rx="30" fill="#1A1A1A"/>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with proper pill shape -->
+  <rect width="200" height="50" rx="25" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
   
-  <!-- Gmail Logo -->
-  <path d="M52 25H28C26.3431 25 25 26.3431 25 28V42C25 43.6569 26.3431 45 28 45H52C53.6569 45 55 43.6569 55 42V28C55 26.3431 53.6569 25 52 25Z" fill="#EA4335"/>
-  <path d="M55 28V42C55 43.6569 53.6569 45 52 45H47V30L40 36L33 30V45H28C26.3431 45 25 43.6569 25 42V28L40 37L55 28Z" fill="#C5221F"/>
-  <path d="M47 30V45H52C53.6569 45 55 43.6569 55 42V28L47 30Z" fill="#FBBC04"/>
-  <path d="M33 30V45H28C26.3431 45 25 43.6569 25 42V28L33 30Z" fill="#34A853"/>
+  <!-- Gmail Logo (centered in left circle) -->
+  <g transform="translate(25, 25)">
+    <!-- Envelope base -->
+    <rect x="-10" y="-7" width="20" height="14" rx="1.5" fill="#EA4335"/>
+    <!-- Folded parts -->
+    <path d="M-10 -7 L0 1 L10 -7" fill="#C5221F"/>
+    <path d="M10 -7 L10 7 L6 3 L10 -7" fill="#FBBC04"/>
+    <path d="M-10 -7 L-10 7 L-6 3 L-10 -7" fill="#34A853"/>
+    <!-- Front flap -->
+    <path d="M-10 -7 L0 1 L10 -7" stroke="white" stroke-width="0.5" fill="none"/>
+  </g>
   
   <!-- Text -->
-  <text x="70" y="38" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="600" fill="white">abhinavftp98</text>
+  <text x="55" y="32" font-family="'Segoe UI', -apple-system, system-ui, sans-serif" font-size="16" font-weight="600" fill="white">abhinavftp98</text>
 </svg>

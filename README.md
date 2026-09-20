@@ -18,21 +18,21 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-github-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/badge-github-light.svg">
-    <img alt="GitHub: RemuruSama" src="./assets/badge-github-light.svg" height="60">
+    <img alt="GitHub: RemuruSama" src="./assets/badge-github-light.svg" height="50">
   </picture>
 </a>
 <a href="https://t.me/CodeSenseiX">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-telegram-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/badge-telegram-light.svg">
-    <img alt="Telegram: CodeSenseiX" src="./assets/badge-telegram-light.svg" height="60">
+    <img alt="Telegram: CodeSenseiX" src="./assets/badge-telegram-light.svg" height="50">
   </picture>
 </a>
 <a href="mailto:abhinavftp98@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-gmail-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/badge-gmail-light.svg">
-    <img alt="Gmail: abhinavftp98" src="./assets/badge-gmail-light.svg" height="60">
+    <img alt="Gmail: abhinavftp98" src="./assets/badge-gmail-light.svg" height="50">
   </picture>
 </a>
 
