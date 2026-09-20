@@ -12,49 +12,11 @@
   <img alt="Abhinav Verma · @RemuruSama" src="./assets/header-light.svg" width="100%">
 </picture>
 
-<br/>
-
-<a href="https://github.com/RemuruSama">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-github-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/badge-github-light.svg">
-    <img alt="GitHub: RemuruSama" src="./assets/badge-github-light.svg" height="50">
-  </picture>
-</a>
-<a href="https://t.me/CodeSenseiX">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-telegram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/badge-telegram-light.svg">
-    <img alt="Telegram: CodeSenseiX" src="./assets/badge-telegram-light.svg" height="50">
-  </picture>
-</a>
-<a href="mailto:abhinavftp98@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-gmail-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/badge-gmail-light.svg">
-    <img alt="Gmail: abhinavftp98" src="./assets/badge-gmail-light.svg" height="50">
-  </picture>
-</a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/section-about-light.svg">
-  <img alt="About Me" src="./assets/section-about-light.svg" width="480">
-</picture>
-
-<p align="center">
-  Android developer focused on custom ROMs, kernels, and developer tools. Always learning, building, and experimenting with new ideas.
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/flow-light.svg">
   <img alt="Android → ROMs → Kernel → Tools → Open Source" src="./assets/flow-light.svg" width="100%">
 </picture>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/section-projects-dark.svg">

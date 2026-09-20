@@ -64,6 +64,8 @@
       <g clip-path="url(#nameClip)"><g class="sweep"><rect x="-300" y="80" width="150" height="100" fill="url(#shine)" transform="skewX(-20)"/></g></g>
     </g>
     <text class="hd rise2" x="66" y="202" fill="#8BE9FD">@RemuruSama</text>
+    <text class="hd rise2" x="66" y="235" fill="#a5b4fc" font-size="18px" opacity="0.85">Always learning, building, and</text>
+    <text class="hd rise2" x="66" y="260" fill="#a5b4fc" font-size="18px" opacity="0.85">experimenting with new ideas.</text>
 
     <g transform="translate(830 150)">
       <circle class="ring" r="56"/><circle class="ring r2" r="56"/><circle class="ring r3" r="56"/>
