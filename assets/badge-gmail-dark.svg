@@ -1,0 +1,13 @@
+<svg width="280" height="60" viewBox="0 0 280 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="280" height="60" rx="30" fill="#1A1A1A"/>
+  
+  <!-- Gmail Logo -->
+  <path d="M52 25H28C26.3431 25 25 26.3431 25 28V42C25 43.6569 26.3431 45 28 45H52C53.6569 45 55 43.6569 55 42V28C55 26.3431 53.6569 25 52 25Z" fill="#EA4335"/>
+  <path d="M55 28V42C55 43.6569 53.6569 45 52 45H47V30L40 36L33 30V45H28C26.3431 45 25 43.6569 25 42V28L40 37L55 28Z" fill="#C5221F"/>
+  <path d="M47 30V45H52C53.6569 45 55 43.6569 55 42V28L47 30Z" fill="#FBBC04"/>
+  <path d="M33 30V45H28C26.3431 45 25 43.6569 25 42V28L33 30Z" fill="#34A853"/>
+  
+  <!-- Text -->
+  <text x="70" y="38" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" font-weight="600" fill="white">abhinavftp98</text>
+</svg>

@@ -14,9 +14,27 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/RemuruSama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RemuruSama)
-[![Telegram](https://img.shields.io/badge/CodeSenseiX-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeSenseiX)
-[![Gmail](https://img.shields.io/badge/abhinavftp98-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavftp98@gmail.com)
+<a href="https://github.com/RemuruSama">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badge-github-light.svg">
+    <img alt="GitHub: RemuruSama" src="./assets/badge-github-light.svg" height="60">
+  </picture>
+</a>
+<a href="https://t.me/CodeSenseiX">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-telegram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badge-telegram-light.svg">
+    <img alt="Telegram: CodeSenseiX" src="./assets/badge-telegram-light.svg" height="60">
+  </picture>
+</a>
+<a href="mailto:abhinavftp98@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badge-gmail-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badge-gmail-light.svg">
+    <img alt="Gmail: abhinavftp98" src="./assets/badge-gmail-light.svg" height="60">
+  </picture>
+</a>
 
 <br/><br/>
 
