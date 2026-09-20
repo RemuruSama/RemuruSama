@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-label="ROM Development: Custom ROM ports, system modifications, optimization and device bring-up.">
+  <title>ROM Development</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#131a2b"/><stop offset="1" stop-color="#0f1420"/></linearGradient>
+    <radialGradient id="gl" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#FF79C6" stop-opacity=".18"/><stop offset="1" stop-color="#FF79C6" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="400" height="150" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .t{font-family:"SF Pro Display","Segoe UI Variable Display","Segoe UI","Inter","Helvetica Neue",Arial,system-ui,sans-serif;font-weight:700;font-size:21px;fill:#e6edf3}
+    .d{font-family:"SF Pro Display","Segoe UI Variable Display","Segoe UI","Inter","Helvetica Neue",Arial,system-ui,sans-serif;font-size:15px;fill:#9aa7b8}
+    .halo{fill:none;stroke:#FF79C6;stroke-width:1.5;opacity:0;transform-box:fill-box;transform-origin:center;animation:halo 3.6s ease-out -1.8s infinite}
+    @keyframes halo{0%{transform:scale(1);opacity:.55}100%{transform:scale(1.9);opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="400" height="150" fill="url(#bg)"/>
+    <rect width="400" height="150" fill="url(#gl)"/>
+    <circle class="halo" cx="48" cy="48" r="24"/>
+    <rect x="24" y="24" width="48" height="48" rx="14" fill="#FF79C6" fill-opacity=".12" stroke="#FF79C6" stroke-opacity=".4" stroke-width="1.5"/>
+    <g transform="translate(34.2 34.2) scale(1.15)" fill="none" stroke="#FF79C6" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 21 8 12 13 3 8Z"/><path d="M3 12l9 5 9-5"/><path d="M3 16l9 5 9-5"/></g>
+    <text class="t" x="88" y="55">ROM Development</text>
+    <text class="d" x="24" y="107">Custom ROM ports, system modifications,</text>
+    <text class="d" x="24" y="129">optimization and device bring-up.</text>
+  </g>
+  <rect x=".75" y=".75" width="398.5" height="148.5" rx="15.5" fill="none" stroke="#2b3650" stroke-width="1.5"/>
+</svg>

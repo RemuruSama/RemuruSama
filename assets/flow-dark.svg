@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 110" width="840" height="110" role="img" aria-label="Android, then ROMs, then Kernel, then Tools, then Open Source">
+  <title>Android → ROMs → Kernel → Tools → Open Source</title>
+  <defs>
+    <linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="82.0" y1="0" x2="758.0" y2="0">
+      <stop offset="0" stop-color="#8BE9FD"/><stop offset=".5" stop-color="#BD93F9"/><stop offset="1" stop-color="#FF79C6"/>
+    </linearGradient>
+    <filter id="gl" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <style>
+    .lb{font-family:"SF Pro Display","Segoe UI Variable Display","Segoe UI","Inter","Helvetica Neue",Arial,system-ui,sans-serif;font-weight:700;font-size:16px;fill:#e6edf3;text-anchor:middle}
+    .dot{opacity:0;animation:go 7.0s linear infinite}
+    @keyframes hi0{0%,0.000%{opacity:0}2.143%{opacity:1}15.000%,100%{opacity:0}} .h0{opacity:0;animation:hi0 7.0s linear infinite} @keyframes hi1{0%,15.000%{opacity:0}19.286%{opacity:1}32.143%,100%{opacity:0}} .h1{opacity:0;animation:hi1 7.0s linear infinite} @keyframes hi2{0%,34.286%{opacity:0}38.571%{opacity:1}51.429%,100%{opacity:0}} .h2{opacity:0;animation:hi2 7.0s linear infinite} @keyframes hi3{0%,53.571%{opacity:0}57.857%{opacity:1}70.714%,100%{opacity:0}} .h3{opacity:0;animation:hi3 7.0s linear infinite} @keyframes hi4{0%,72.857%{opacity:0}77.143%{opacity:1}90.000%,100%{opacity:0}} .h4{opacity:0;animation:hi4 7.0s linear infinite}
+    @keyframes go{0%{transform:translateX(0);opacity:0}2%{opacity:1}77.14%{transform:translateX(676px);opacity:1}80.71%,100%{transform:translateX(676px);opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <line x1="82.0" y1="55.0" x2="758.0" y2="55.0" stroke="url(#ln)" stroke-opacity=".35" stroke-width="2" stroke-linecap="round"/>
+  <path d="M163.0 50.0 L169.5 55.0 L163.0 60.0" fill="none" stroke="#5b6b88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M332.0 50.0 L338.5 55.0 L332.0 60.0" fill="none" stroke="#5b6b88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M501.0 50.0 L507.5 55.0 L501.0 60.0" fill="none" stroke="#5b6b88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M670.0 50.0 L676.5 55.0 L670.0 60.0" fill="none" stroke="#5b6b88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(82.0 55.0)"><g class="dot">
+    <circle r="11" fill="#FF79C6" opacity=".5" filter="url(#gl)"/><circle r="5" fill="#FF79C6"/>
+  </g></g>
+  <rect x="20" y="33" width="124" height="44" rx="22" fill="#121a2c" stroke="#2b3650" stroke-width="1.5"/><rect x="189" y="33" width="124" height="44" rx="22" fill="#121a2c" stroke="#2b3650" stroke-width="1.5"/><rect x="358" y="33" width="124" height="44" rx="22" fill="#121a2c" stroke="#2b3650" stroke-width="1.5"/><rect x="527" y="33" width="124" height="44" rx="22" fill="#121a2c" stroke="#2b3650" stroke-width="1.5"/><rect x="696" y="33" width="124" height="44" rx="22" fill="#121a2c" stroke="#2b3650" stroke-width="1.5"/>
+  <rect class="h0" x="20" y="33" width="124" height="44" rx="22" fill="#8BE9FD" fill-opacity=".16" stroke="#8BE9FD" stroke-width="2"/><text class="lb" x="82.0" y="60.5">Android</text><rect class="h1" x="189" y="33" width="124" height="44" rx="22" fill="#a4befb" fill-opacity=".16" stroke="#a4befb" stroke-width="2"/><text class="lb" x="251.0" y="60.5">ROMs</text><rect class="h2" x="358" y="33" width="124" height="44" rx="22" fill="#BD93F9" fill-opacity=".16" stroke="#BD93F9" stroke-width="2"/><text class="lb" x="420.0" y="60.5">Kernel</text><rect class="h3" x="527" y="33" width="124" height="44" rx="22" fill="#de86e0" fill-opacity=".16" stroke="#de86e0" stroke-width="2"/><text class="lb" x="589.0" y="60.5">Tools</text><rect class="h4" x="696" y="33" width="124" height="44" rx="22" fill="#FF79C6" fill-opacity=".16" stroke="#FF79C6" stroke-width="2"/><text class="lb" x="758.0" y="60.5">Open Source</text>
+</svg>
