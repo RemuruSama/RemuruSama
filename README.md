@@ -14,8 +14,9 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-CodeSenseiX-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeSenseiX)
-[![GitHub](https://img.shields.io/badge/GitHub-RemuruSama-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RemuruSama)
+[![GitHub](https://img.shields.io/badge/RemuruSama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RemuruSama)
+[![Telegram](https://img.shields.io/badge/CodeSenseiX-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeSenseiX)
+[![Gmail](https://img.shields.io/badge/abhinavftp98-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavftp98@gmail.com)
 
 <br/><br/>
 
@@ -33,23 +34,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/flow-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/flow-light.svg">
   <img alt="Android → ROMs → Kernel → Tools → Open Source" src="./assets/flow-light.svg" width="100%">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/section-stack-light.svg">
-  <img alt="Tech Stack" src="./assets/section-stack-light.svg" width="480">
-</picture>
-
-<br/>
-
-<!-- Icons come from skillicons.dev (third-party); the theme parameter follows the viewer's GitHub theme. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=android,kotlin,java,python,linux,bash,git,github&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=android,kotlin,java,python,linux,bash,git,github&theme=light">
-  <img alt="Android, Kotlin, Java, Python, Linux, Bash, Git, GitHub" src="https://skillicons.dev/icons?i=android,kotlin,java,python,linux,bash,git,github&theme=light">
 </picture>
 
 <br/><br/>
