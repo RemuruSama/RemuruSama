@@ -8,8 +8,8 @@
   </defs>
   <style>
     .h{font-family:"SF Pro Display","Segoe UI Variable Display","Segoe UI","Inter","Helvetica Neue",Arial,system-ui,sans-serif;font-weight:800;font-size:28px;fill:#e6edf3;text-anchor:middle}
-    .run{animation:run 5.5s linear infinite both;animation-play-state:running}
-    @keyframes run{0%{stroke-dashoffset:220}72%,100%{stroke-dashoffset:-1000}}
+    .run{animation:run 4s ease-in-out infinite}
+    @keyframes run{0%,100%{stroke-dashoffset:220}50%{stroke-dashoffset:-780}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
   <text class="h" x="280" y="43" textLength="124.8" lengthAdjust="spacingAndGlyphs">Projects</text>

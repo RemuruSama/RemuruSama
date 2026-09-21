@@ -8,8 +8,8 @@
   </defs>
   <style>
     .ft{font-family:"JetBrains Mono","SF Mono","Cascadia Code","Fira Code",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:13px;letter-spacing:3px;fill:#94a3b8;text-anchor:middle}
-    .run{animation:run 5.5s linear infinite both;animation-play-state:running}
-    @keyframes run{0%{stroke-dashoffset:170}75%,100%{stroke-dashoffset:-1000}}
+    .run{animation:run 4s ease-in-out infinite}
+    @keyframes run{0%,100%{stroke-dashoffset:170}50%{stroke-dashoffset:-830}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
   <path d="M0 64H250q8 -12 16 0h18l6 8l10 -56l10 70l6 -22h20q14 -20 28 0H640q8 -12 16 0h18l6 8l10 -56l10 70l6 -22h20q14 -20 28 0H1000" pathLength="1000" fill="none" stroke="url(#g)" stroke-opacity=".28" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
