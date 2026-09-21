@@ -8,7 +8,7 @@
   </defs>
   <style>
     .ft{font-family:"JetBrains Mono","SF Mono","Cascadia Code","Fira Code",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:13px;letter-spacing:3px;fill:#64748b;text-anchor:middle}
-    .run{animation:run 5.5s linear infinite}
+    .run{animation:run 5.5s linear infinite;will-change:stroke-dashoffset}
     @keyframes run{0%{stroke-dashoffset:170}75%,100%{stroke-dashoffset:-1000}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
